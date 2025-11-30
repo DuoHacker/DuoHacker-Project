@@ -502,7 +502,7 @@
 
 <div align="center">
 
-[![Installation Tutorial](https://img.youtube.com/vi/YOUTUBE_ID/maxresdefault.jpg)](https://youtube.com/watch?v=CddgLLfPqUM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CddgLLfPqUM?si=BzM_xZcgfNesf6aO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Click to watch full installation guide*
 
