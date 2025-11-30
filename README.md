@@ -13,7 +13,7 @@
 
 *Unlock unlimited XP, Gems, Streaks, and Premium Features - 100% Free Forever!*
 
-[🚀 Install Now](https://greasyfork.org/en/scripts/551444-duolingo-duohacker) • [📖 Documentation](#-features) • [💬 Discord](https://discord.gg/duohacker) • [🐛 Report Bug](https://github.com/kevinriverrrr-sudo/DuoHacker/issues)
+[🚀 Install Now](https://greasyfork.org/en/scripts/551444-duolingo-duohacker) • [📖 Documentation](#-features) • [💬 Discord](https://discord.gg/duohacker) • [🐛 Report Bug](https://github.com/DuoHacker/DuoHacker/issues)
 
 ---
 
@@ -1150,7 +1150,7 @@ SOFTWARE.
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kevinriverrrr-sudo/DuoHacker&type=Date)](https://star-history.com/#kevinriverrrr-sudo/DuoHacker&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=DuoHacker/DuoHacker&type=Date)](https://star-history.com/#DuoHacker/DuoHacker&Date)
 
 If you find this tool useful, please consider giving it a ⭐ star on GitHub!
 
