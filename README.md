@@ -1150,7 +1150,7 @@ SOFTWARE.
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=DuoHacker/DuoHacker&type=Date)](https://star-history.com/#DuoHacker/DuoHacker&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=DuoHacker/DuoHacker-Project&type=Date)](https://star-history.com/#DuoHacker/DuoHacker-Project&Date)
 
 If you find this tool useful, please consider giving it a ⭐ star on GitHub!
 
